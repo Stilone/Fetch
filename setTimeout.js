@@ -1,17 +1,16 @@
-const btnElement = document.getElementById('btn');
-
 const showColor = () => {
+    const btnElement = document.getElementById('btn');
     if(btnElement) {
         const classes = btnElement.classList;
-        const result = classes.contains('btn-y');
-
+        const result = classes.contains('btn-b');
         if (result) {
-            btnElement.classList.remove('btn-y');
-            btnElement.classList.add('btn-b');
+            console.log(result)
+            btnElement.classList.remove('btn-b');
         } else {
-            btnElement.classList.add('btn-y');
+            console.log(result)
+            btnElement.classList.add('btn-b');
         }
     }
 }
 
-setInterval(showColor, 5000)
+setInterval(showColor, 1000);
