@@ -24,6 +24,6 @@ Here's a sneak peek at what you'll find in the Fetch:
 # Acknowledgments 🙌
 A big thank you to everyone who has embarked on this journey with me.
 
-<img align="right" height="250" width="375" alt="" src="https://giphy.com/gifs/snl-season-42-snl-2017-xT9IgEIGPP1GjDgTLO" />
+<img align="right" height="250" width="375" alt="" src="[https://giphy.com/gifs/snl-season-42-snl-2017-xT9IgEIGPP1GjDgTLO](https://media.giphy.com/media/xT9IgEIGPP1GjDgTLO/giphy.gif)https://media.giphy.com/media/xT9IgEIGPP1GjDgTLO/giphy.gif" />
 
 Happy coding! 😊✨
