@@ -1,4 +1,4 @@
-# Fetch Playground 🚀
+# Fetch 🚀
 
 Hello! Welcome to my Fetch Playground. In this small project, I dived into the world of fetch requests and experimented with the delightful setTimeout. Feel free to download and explore the project by opening the index.html file.
 
