@@ -1,6 +1,6 @@
 # Fetch 🚀
 
-Hello! Welcome to my Fetch Playground. In this small project, I dived into the world of fetch requests and experimented with the delightful setTimeout.
+Hello! Welcome to my project Fetch. In this small project, I dived into the world of fetch requests and experimented with the delightful setTimeout.
 
 # Key Highlights 🌟
 
