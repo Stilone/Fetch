@@ -9,9 +9,9 @@ setTimeout Magic: Experimented with setTimeout to add a touch of asynchronous ch
 
 # Project Structure 📁
 
-index.html: The heart of the project. Open this file to dive into the Fetch Playground.
-styles.css: Some minimal styling to make things visually appealing.
-script.js: The JavaScript file where the fetch requests and setTimeout magic happen.
+- index.html: The heart of the project. Open this file to dive into the Fetch.
+- css.css: Some minimal styling to make things visually appealing.
+- first.js: The JavaScript file where the fetch requests and setTimeout magic happen.
 
 # How to Run 🏃‍♂️
 Simply download the project and open the index.html file in your browser to experience the Fetch Playground.
