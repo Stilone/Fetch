@@ -24,6 +24,6 @@ Here's a sneak peek at what you'll find in the Fetch:
 # Acknowledgments 🙌
 A big thank you to everyone who has embarked on this journey with me.
 
-<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/xT9IgEIGPP1GjDgTLO/giphy.gif" />
+<img align="center" height="250" width="375" alt="" src="https://media.giphy.com/media/xT9IgEIGPP1GjDgTLO/giphy.gif" />
 
 Happy coding! 😊✨
