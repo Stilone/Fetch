@@ -22,8 +22,6 @@ Here's a sneak peek at what you'll find in the Fetch:
 ![Главная страница](https://sun9-47.userapi.com/impg/lcp6cnn5yoa0-fBNZ4ovcUb9F4CsVaJLTiXhVQ/cby6GXju1fQ.jpg?size=1350x384&quality=96&sign=5a2626ea3e5d249bf969be8e5de8aad7&type=album)
 
 # Acknowledgments 🙌
-A big thank you to everyone who has embarked on this journey with me. Special shoutout to the setTimeout function for adding a dash of asynchronous excitement!
-
-Feel free to reach out if you have any questions, suggestions, or just want to chat about JavaScript adventures.
+A big thank you to everyone who has embarked on this journey with me.
 
 Happy coding! 😊✨
