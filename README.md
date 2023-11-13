@@ -26,6 +26,4 @@ A big thank you to everyone who has embarked on this journey with me.
 
 <img align="right" height="250" width="375" alt="" src="https://giphy.com/gifs/snl-season-42-snl-2017-xT9IgEIGPP1GjDgTLO" />
 
-<iframe src="https://giphy.com/embed/xT9IgEIGPP1GjDgTLO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/snl-season-42-snl-2017-xT9IgEIGPP1GjDgTLO">via GIPHY</a></p>
-
 Happy coding! 😊✨
