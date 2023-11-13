@@ -14,10 +14,10 @@ setTimeout Magic: Experimented with setTimeout to add a touch of asynchronous ch
 - first.js: The JavaScript file where the fetch requests and setTimeout magic happen.
 
 # How to Run 🏃‍♂️
-Simply download the project and open the index.html file in your browser to experience the Fetch Playground.
+Simply download the project and open the index.html file in your browser to experience the Fetch.
 
 # Screenshots 📸
-Here's a sneak peek at what you'll find in the Fetch Playground:
+Here's a sneak peek at what you'll find in the Fetch:
 
 ![Главная страница](https://sun9-47.userapi.com/impg/lcp6cnn5yoa0-fBNZ4ovcUb9F4CsVaJLTiXhVQ/cby6GXju1fQ.jpg?size=1350x384&quality=96&sign=5a2626ea3e5d249bf969be8e5de8aad7&type=album)
 
